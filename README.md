@@ -1,4 +1,4 @@
-# currency-calculator
+# Currency Calculator
 Currency Calculator is a Python application for Windows that allows users to convert currency values between different currencies. It provides a simple interface for users to select the currency they want to convert from, enter the amount, and select the currency they want to convert to.
 
 Features
